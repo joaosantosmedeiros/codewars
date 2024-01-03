@@ -1,2 +1,6 @@
 *.class
 Demo.java
+.idea
+.vscode
+*.xml
+*.iml
