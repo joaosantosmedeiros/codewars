@@ -1,6 +1,6 @@
 import java.util.stream.IntStream;
 
-public class Kata {
+public class HIghestExpression {
     public static int expressionsMatter(int a, int b, int c) {
         var v = a + b + c;
         var w = a * b * c;
