@@ -1,4 +1,4 @@
-// https://www.codewars.com/kata/58845a92bd573378f4000035/train/java
+// https://www.codewars.com/kata/58845a92bd573378f4000035
 
 public class SwapAdjacentBits {
   
